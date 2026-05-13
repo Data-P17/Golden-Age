@@ -4,7 +4,7 @@ Focusing on the entertainment industry
 Research television shows and movies that was released after 1999 and is still ongoing
 examine the number of votes that impacted its rates
 
-Stages
+Work Plan
 1. Data Overview
    - import Libraries
    - reading files
